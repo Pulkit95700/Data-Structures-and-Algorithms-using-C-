@@ -1,5 +1,5 @@
 #include<iostream>
-//In this we have to arrange the numbers in a way that numbers on the left are smaller than the pivot and those at th right are greater than the pivot
+//In this we have to arrange the numbers in a way that numbers on the left are smaller than the pivot and those at the right are greater than the pivot
 using namespace std;
 
 int Partition_Second(int arr[], int l, int r){
